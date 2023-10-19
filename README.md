@@ -13,7 +13,7 @@ This GitHub repository contains the implementation of Robotic Process Automation
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Project 4 - References](#reference-list)
 - [License](#license)
 
 ### Prerequisites
